@@ -24,9 +24,10 @@ public String test2()
 {
 return "This is test2";	
 }
-@RequestMapping("/hello")
+@RequestMapping("/hellotest")
 public String hello()
 {
 	return "this is branch test";
 }
+
 }
